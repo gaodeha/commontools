@@ -1,4 +1,4 @@
-package com.wudi.datou.common.auth;
+package com.github.gaodeha.common.auth;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

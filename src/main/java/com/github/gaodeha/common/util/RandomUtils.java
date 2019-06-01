@@ -1,4 +1,4 @@
-package com.wudi.datou.common.util;
+package com.github.gaodeha.common.util;
 
 import java.util.Random;
 

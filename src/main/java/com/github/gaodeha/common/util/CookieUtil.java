@@ -1,9 +1,7 @@
-package com.wudi.datou.common.util;
+package com.github.gaodeha.common.util;
 
 
-import com.wudi.datou.common.auth.AuthUser;
-import com.wudi.datou.common.auth.AuthUtil;
-import com.wudi.datou.common.constant.Constants;
+import com.github.gaodeha.common.constant.Constants;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

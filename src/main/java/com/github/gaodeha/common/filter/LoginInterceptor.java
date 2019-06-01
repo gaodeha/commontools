@@ -1,12 +1,12 @@
-package com.wudi.datou.common.filter;
+package com.github.gaodeha.common.filter;
 
 
 import com.alibaba.fastjson.JSON;
-import com.wudi.datou.common.auth.AuthChecker;
-import com.wudi.datou.common.auth.AuthUser;
-import com.wudi.datou.common.auth.CheckLogin;
-import com.wudi.datou.common.response.ResponseErrorCode;
-import com.wudi.datou.common.response.ResultVO;
+import com.github.gaodeha.common.auth.AuthChecker;
+import com.github.gaodeha.common.auth.AuthUser;
+import com.github.gaodeha.common.auth.CheckLogin;
+import com.github.gaodeha.common.response.ResponseErrorCode;
+import com.github.gaodeha.common.response.ResultVO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.method.HandlerMethod;

@@ -1,4 +1,4 @@
-package com.wudi.datou.common.auth;
+package com.github.gaodeha.common.auth;
 
 
 public class AuthUser {

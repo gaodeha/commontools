@@ -1,4 +1,4 @@
-package com.wudi.datou.common.constant;
+package com.github.gaodeha.common.constant;
 
 /**
  * 服务常量，包括登录错误类型

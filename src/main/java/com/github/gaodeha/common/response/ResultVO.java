@@ -1,4 +1,4 @@
-package com.wudi.datou.common.response;
+package com.github.gaodeha.common.response;
 
 public class ResultVO<T> {
 
